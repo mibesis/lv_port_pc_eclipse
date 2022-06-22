@@ -90,8 +90,64 @@ int main(int argc, char **argv)
 //  lv_example_tabview_1();
 //  lv_example_flex_3();
 //  lv_example_label_1();
+//  lv_demo_widgets();
+//  lv_demo_music();
+// lv_example_animimg_1();
 
-    lv_demo_widgets();
+//  lv_example_keyboard_1();
+// lv_example_qrcode_1();
+
+// lv_example_scroll_6();
+
+// lv_example_style_6();
+
+// lv_example_gridnav_3();
+
+// lv_example_snapshot_1();
+
+// lv_example_gif_1();
+
+// lv_example_rlottie_1();
+
+// lv_example_event_4();
+
+// lv_example_get_started_3();
+
+// lv_example_freetype_1();
+
+// lv_example_colorwheel_1();
+
+// lv_example_bar_1();
+
+// lv_example_arc_2();
+
+// lv_example_canvas_2();
+
+// lv_example_chart_8();
+
+// lv_example_obj_2();
+
+// lv_example_roller_3();
+
+// lv_example_span_1();
+
+// lv_example_switch_1();
+
+// lv_example_table_2();
+
+// lv_example_tabview_2();
+
+// lv_example_textarea_3();
+
+// lv_example_tileview_1();
+
+// lv_example_menu_5();
+
+// lv_example_meter_2();
+
+// lv_example_msgbox_1();
+
+
 
   while(1) {
       /* Periodically call the lv_task handler.
